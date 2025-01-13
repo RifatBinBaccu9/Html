@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.looking{
+    background-color: #FFE6E4;
+}
+.lookingDiv{
+    width: 80%;
+    margin: auto;
+}
+.card{
+    display: flex;
+    gap: 20px;
+}
+.div1{
+    width: 24%;
+
+}
+.imagess{
+    background: #F8D9CC;
+    border-radius: 100%;
+    width: 80%;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+}
+img{
+    width: 100%;
+}
+.img2{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
