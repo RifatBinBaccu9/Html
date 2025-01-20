@@ -1,0 +1,25 @@
+#idSet{
+    color: fuchsia;
+    background: #000;
+}
+*{
+    color: aqua;
+}
+h1{
+    color: red;
+}
+p{
+    background: #000;
+}
+
+.heading{
+    color: blue;
+}
+.h12{
+    color: chartreuse;
+}
+.p12{
+    color: coral;
+}
+
+
