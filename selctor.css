@@ -22,4 +22,10 @@ p{
     color: coral;
 }
 
-
+/* input[type="text"]{
+    border: #000;
+    background: #000;
+} */
+.btn{
+background: #b11b1b;
+}

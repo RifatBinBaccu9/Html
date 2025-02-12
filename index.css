@@ -1,4 +1,49 @@
-h2{
-    color: blueviolet;
-    background: burlywood;
+*{
+    padding: 0;
+    margin: 0;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1320px;
+    margin: auto ;
+    margin-top: 50px;
+}
+
+ul{
+    display: flex;
+    gap: 38px;
+}
+li{
+    list-style: none;
+    font-size: 18px;
+    width: 800;
+    font-family: "Manrope", serif;
+}
+h1{
+    font-size: 32px;
+    font-weight: 800;
+    font-family: "Manrope", serif;
+}
+
+button{
+    background:#ABEF5F;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: "Manrope", serif;
+    padding: 14px 20px;
+    border-radius: 50px;
+}
+.div1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+i{
+    font-size: 20px;
+    transform: rotate(45deg);
+    background: #ABEF5F;
+    padding: 10px;
+    border-radius: 100px;
 }
